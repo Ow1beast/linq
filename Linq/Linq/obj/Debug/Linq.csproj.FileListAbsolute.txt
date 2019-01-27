@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\Linq\Linq\bin\Debug\Linq.exe.config
+C:\Users\user\source\repos\Linq\Linq\bin\Debug\Linq.exe
+C:\Users\user\source\repos\Linq\Linq\bin\Debug\Linq.pdb
+C:\Users\user\source\repos\Linq\Linq\bin\Debug\EntityFramework.dll
+C:\Users\user\source\repos\Linq\Linq\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\source\repos\Linq\Linq\bin\Debug\EntityFramework.xml
+C:\Users\user\source\repos\Linq\Linq\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\source\repos\Linq\Linq\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\user\source\repos\Linq\Linq\obj\Debug\Linq.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Linq\Linq\obj\Debug\Linq.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Linq\Linq\obj\Debug\Linq.csproj.CopyComplete
+C:\Users\user\source\repos\Linq\Linq\obj\Debug\Linq.exe
+C:\Users\user\source\repos\Linq\Linq\obj\Debug\Linq.pdb
